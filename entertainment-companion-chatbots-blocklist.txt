@@ -1,0 +1,53 @@
+! Title: Entertainment & Companion Chatbots Blocklist
+! Description: Domains for entertainment, porn/NSFW, girlfriend/boyfriend, and similar AI chatbot platforms.
+! Maintainer: ChatGPT (generated for user)
+! Last-Updated: 2025-09-09
+! Syntax: AdGuard DNS filter (||domain^ blocks domain + all subdomains)
+
+! === Major character/roleplay chat platforms ===
+||character.ai^
+||c.ai^
+||janitorai.com^
+||crushon.ai^
+||crushon-ai.com^
+||spicychat.ai^
+||spicychat-ai.com^
+||charstar.ai^
+||chub.ai^
+||venus.chub.ai^
+||kajiwoto.ai^
+||talkie-ai.com^
+||roleplai.app^
+||roleplai.org^
+
+! === Companion (girlfriend/boyfriend) chat apps ===
+||replika.com^
+||replika.ai^
+||my.replika.com^
+||kuki.ai^
+||chat.kuki.ai^
+||kindroid.ai^
+||nomi.ai^
+||paradot.ai^
+||myanima.ai^
+||girlfriend.myanima.ai^
+||kupid.ai^
+||get-honey.ai^
+||honeygf.com^
+||dreamgf.ai^
+||dream-companion.app^
+
+! === Entertainment / story & RP generators used as chat ===
+||aidungeon.com^
+||play.aidungeon.com^
+||legacy.aidungeon.com^
+||aidungeon.cc^
+||novelai.net^
+
+! === Older/general entertainment chatbots ===
+||cleverbot.com^
+||kajiwoto.com^
+
+! === Notes ===
+! - This list is not exhaustive. Monitor AdGuard query logs to find additional domains used by these services (e.g., APIs, CDNs).
+! - If you prefer HOSTS format, replace lines like '||example.com^' with '0.0.0.0 example.com' and list common subdomains explicitly.
