@@ -36,6 +36,7 @@
 ||honeygf.com^
 ||dreamgf.ai^
 ||dream-companion.app^
+||https://flowgpt.com^
 
 ! === Entertainment / story & RP generators used as chat ===
 ||aidungeon.com^
