@@ -48,6 +48,54 @@
 ! === Older/general entertainment chatbots ===
 ||cleverbot.com^
 ||kajiwoto.com^
+||candy.ai^
+||dreamgf.ai^
+||soulgen.ai^
+||pornjourney.ai^
+||nsfwaichat.com^
+||chatfai.com^
+||bottr.me^
+||kupid-ai.net^
+||hotbot.com^
+||tavernai.app^
+||Botmake.io^
+||joiaigirlfriend.com^
+||LipBytes.com^
+||harpy.chat^
+||perberos.me^
+||kuki.ai^
+||chatbotkit.com^
+||wallubot.com^
+||jasper.ai^
+||Crushon.AI^
+||fapai.app^
+||pygmalion.chat^
+||janitorai.com^
+||novelai.net^
+||personalityforge.com^
+||character.ai^
+||chai-research.com^
+||app.chatspot.ai^
+||myanima.ai^
+||play.aidungeon.com^
+||pirr.ai^
+||netwrck.com^
+||hotconvo.art^
+||chat.colossalai.org^
+||mayaknows.com^
+||botify.ai^
+||satoshin.ai^
+||caryn.ai^
+||kajiwoto.ai^
+||chatthing.ai^
+||sqlchat.ai^
+||godinabox.co^
+||romanticai.com^
+||cleverbot.com^
+||roleplai.app^
+||evaaichat.com^
+||quickchat.ai^
+||gptgirlfriend.online^
 
 ! === Notes ===
 ! - This list is not exhaustive. Monitor AdGuard query logs to find additional domains used by these services (e.g., APIs, CDNs).
